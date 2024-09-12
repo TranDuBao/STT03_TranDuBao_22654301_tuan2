@@ -1,0 +1,138 @@
+#main{
+    border: 2px solid rgb(185, 60, 60);
+    width:100%;
+    height:auto;
+}
+header{
+    border-bottom: 2px solid rgb(185, 60, 60);
+    width:100%;
+    min-height: 80px;
+    text-align: center;
+    color:rgb(220, 118, 121);
+    font-size: 30px;
+}
+menu{
+    margin-top: -1%;
+    border:1px;
+    min-width: none;
+    min-height: 50px;
+    background-color: rgb(220, 118, 121);
+    padding-top:4px;
+}
+.table_menu li{
+    display:inline;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 5px;
+}
+.table_menu li a {
+    color: aliceblue;
+    text-decoration: none;
+}
+.table_menu li a:hover{
+    color:red;
+}
+.gachdoc{
+    color:blue;
+}
+nav{
+    border:1px;
+    float: left;
+    width: 20%;
+    min-height: 700px;
+}
+section{
+    border:1px;
+    float:left;
+    width:50%;
+    min-height: 700px;
+    margin-left:1%;
+}
+aside{
+    border:1px;
+    width:26%;
+    min-height: 700px;
+    margin-left:73%;
+    background-color: black;
+
+}
+footer{
+    border:2px solid rgb(185, 60, 60);
+    width:99.9%;
+    min-height:70px;
+    clear: both;
+    background-color: rgb(220, 118, 121);
+}
+#chu_footer{
+    color:aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+table{
+    padding: 30px;
+}
+header h2 {
+    text-align: center;
+    color:  rgb(220, 118, 121);
+    text-shadow: 5px 10px 10px;
+}
+#pic{
+    border-radius:50%;
+    width:280px;
+    height:210px;
+    margin-top:20px;
+}
+.div_nav{
+    padding:6px;
+    border-radius: 10% / 50%;
+    width:250px;
+    height:40px;
+    background-color: rgb(220, 118, 121);
+    font-size: 17px;
+    color:aliceblue;
+    text-indent: 30px;
+}
+.v_section{
+    color:red;
+}
+.table_sec{
+    width:90%;
+}
+.chu_div_sec{
+    border:1px;
+    background-color: rgb(220, 118, 121);
+    width: 60%;
+    height: 50px;
+    font-size: 25px;
+    color:rgb(185, 60, 60);
+    margin-left: 180px;
+    display: block;
+}
+tr>td{
+    padding:10px;
+}
+input{
+    height:30px;
+}
+.pic_aside{
+    width:340px;
+    height:230px;
+    margin-top:-5%;
+}
+.div_p_aside{
+    width:300px;
+    margin-top:-5%;
+    text-align: left;
+    margin-left: -10%;
+    padding:10px;
+    border:1px;
+}
+.p_tieude{
+    color:aliceblue;
+}
+.chu_p{
+    margin-top:0%;
+}
+.back{
+    color:red;
+}

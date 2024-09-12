@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+.main{
+    border: 1px solid rgb(190,52,142);
+    width:100%;
+    height:auto; 
+}
+#tieude{
+    color:brown;
+    text-align: center;
+    border-bottom: 2px solid rgb(177,173,173);
+    font-size: 20px;
+    width:100%;
+    min-width: 90px;
+}
+menu{
+    border-bottom: 2px solid rgb(177,173,173);
+    margin-top: -18px;
+    width:100%;
+    height:60px;
+    background-color: rgb(244,61,131);
+    color:rgb(70,26,111);
+    text-align: left;
+}
+menu > ul{
+    text-align: center;
+    display: flex;
+}
+.menu1 li{
+    display: inline;
+    line-height: 20px;
+    padding:20px 20px;
+}
+.menu1 li a{
+    color:aliceblue;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+.menu1 li a:hover{
+    color:rgb(164,68,78);
+}
+section{
+    border-bottom: 1px solid;
+    width:100%;
+    min-height:350px;
+}
+.sta{
+    background-color: blanchedalmond;
+    color:rgb(168,4,4);
+    font-size: 30px;
+    border:1px;
+    margin-top: -3px;
+}
+
+
+.chuv{
+    color:red;
+}
+.gach{
+    color:blue;
+}
